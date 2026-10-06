@@ -36,11 +36,11 @@ Voici les contraintes données par la ligue :
 - Exactement **2 équipes de 3 joueurs**
 - Chaque joueur dans **une seule équipe**
 
-Contenu:
-- Programmation linéaire avec PuLP (solution optimale) 
-- Stratégies gloutonnes et tableau comparatif avec PuLP
-- Score cumulé récursif et Fibonacci naïf vs mémoïsé
-- Graphiques d'analyse (matplotlib)
+Branches:
+- partie1_pl.py : Programmation linéaire avec PuLP (solution optimale) 
+- partie2_glouton.py : Stratégies gloutonnes et tableau comparatif avec PuLP
+- partie3_recursion.py : Score cumulé récursif et Fibonacci naïf vs mémoïsé
+- Graphiques-d’analyse : Graphiques d'analyse (matplotlib)
 
 ---
 ## Fonctionnalités
