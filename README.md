@@ -69,11 +69,7 @@ Branches:
 ---
 ## Installations
 
-```bash
-git clone https://github.com/BarbaraEstimable/AI_TP2.git
-cd AI_TP2
-pip install pulp matplotlib numpy
-```
+Ouvrir le notebook avec le bouton Open in Colab, puis exécuter toutes les cellules dans l'ordre (Exécution → Tout exécuter). La cellule d'importation installe les installations automatiquement.
 ---
 ## Le fonctionnement
 
